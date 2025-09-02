@@ -1,5 +1,6 @@
 # Malaria-Transmission--grace-Njoki
 Grace- Slow learners Association-Cake lover
+
 This project studies malaria transmission dynamics using epidemiological models.
 It includes scripts, datasets, and analysis files to model malaria spread and evaluate interventions.
 
